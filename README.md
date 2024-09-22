@@ -108,7 +108,7 @@ Essentially, you are renting the hardware in a cloud data center, and you manage
 ## Knowledge Check 
 
 #### 1. Which cloud service type is most suited to a lift and shift migration from an on-prem datacenter to a cloud deployment? 
-- [x] IaaS
+- [x] **IaaS**
 - [ ] PaaS
 - [ ] SaaS
 
@@ -117,6 +117,6 @@ Essentially, you are renting the hardware in a cloud data center, and you manage
 #### 2. What type of cloud service type would be Finance and Expensive Tracking solution typically be in? 
 - [ ] IaaS
 - [ ] PaaS
-- [x] SaaS
+- [x] **SaaS**
 
 -  SaaS provides access to software solutions, such as finance and expense tracking, email or ticketing systems
